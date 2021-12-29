@@ -26,7 +26,7 @@ button:hover,
 .close:focus {
   background-color: greenyellow;
   cursor: pointer;
-  border: 1px solid rgb(12, 68, 12)k;
+  border: 1px solid rgb(12, 68, 12);
   color: rgb(12, 68, 12);
 }
 /*{
