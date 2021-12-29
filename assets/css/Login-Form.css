@@ -13,20 +13,21 @@ input[type=text], input[type=password] {
 
 /* Set a style for all buttons */
 button {
-  background-color: green;
+  background-color: rgb(19, 105, 19);
   padding: 14px 15px;
   margin: 8px 8px;
-  border: 1px solid black;
+  border: 1px solid rgb(12, 68, 12)k;
   cursor: pointer;
   width: 100%;
-  color: black;
+  color: rgb(12, 68, 12);
 }
 
 button:hover, 
 .close:focus {
   background-color: greenyellow;
-  color: black;
   cursor: pointer;
+  border: 1px solid rgb(12, 68, 12)k;
+  color: rgb(12, 68, 12);
 }
 /*{
   opacity: 0.8;
